@@ -4,7 +4,7 @@ import React from 'react'
 
 export const ServicesSection = () => {
   return (
-    <Grid container display='flex'  alignItems='center' spacing={ 6 }  mb={ 20 }>
+    <Grid container display='flex'  alignItems='center' spacing={ 6 }  mb={ 10 }>
 
     <Grid item xs={ 12 } md={ 6 } display='flex' justifyContent='flex-end' >
       <img width='100%' height='auto' src='https://res.cloudinary.com/dnxxkvpiz/image/upload/v1663011195/somosm2/Texto_cuandrado_3_auhfkj.png' alt='Somos main banner' />

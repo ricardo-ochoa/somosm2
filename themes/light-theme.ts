@@ -83,6 +83,7 @@ export const lightTheme = createTheme({
         },
         h6: {
           fontSize: '1.5rem',
+          lineHeight: '1.6rem',
           '@media (max-width:600px)': {
             fontSize: '1.2rem',
           },

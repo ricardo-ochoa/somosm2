@@ -48,7 +48,7 @@ export const HomeLayout:FC<Props> = ({ children, title, pageDescription, imageFu
 
         <main className='main' style={{
             margin: '50px auto',
-            maxWidth: '1440px',
+            maxWidth: '1200px',
             padding: '0 20px',
         }}>
             { children }
