@@ -15,12 +15,18 @@ a {
   box-sizing: border-box;
 }
 
+.btn{
+  background-color:'#000';
+  color:'white';
+}
+
+hover::btn{
+  background-color:'red';
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
   }
-  body {
-    color: white;
-    background: black;
-  }
+   
 }
