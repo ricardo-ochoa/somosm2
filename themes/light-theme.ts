@@ -1,5 +1,5 @@
 import { createTheme } from '@mui/material/styles';
-import { red,  } from '@mui/material/colors';
+import { red } from '@mui/material/colors';
 
 
 export const lightTheme = createTheme({
@@ -31,7 +31,8 @@ export const lightTheme = createTheme({
       styleOverrides: {
         root: {
           backgroundColor: 'white',
-          height: 60
+          height: 'auto',
+          boxShadow: '0px 1px 10px 0px rgb(255 255 255 / 12%);'
         },
       }
     },

@@ -58,12 +58,6 @@ const Home: NextPage = () => {
 
         </Grid>
 
-
-      
-
-
-
-
       </HomeLayout>
     </div>
   )

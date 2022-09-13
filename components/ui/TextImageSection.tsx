@@ -14,11 +14,12 @@ export const TextImageSection = () => {
       <Box mt={ 4 }>
         <Typography variant='subtitle1' component='h6' mb={ 2 } >Contactar:</Typography>
         
-        <Box display='flex' width='280px' justifyContent='space-between' >
+        <Box display='flex' maxWidth='280px' justifyContent='space-between' >
           <Button href='https://wa.me/529982921163' target='_blank' style={{ paddingRight:'1rem', paddingLeft:'1rem', backgroundColor:'#25D366', color:'white' }} >WhatssApp</Button>
           <Button href='tel:9982921163' target='_blank' style={{ paddingRight:'1rem', paddingLeft:'1rem', backgroundColor:'#000', color:'white' }} >Teléfono</Button>
           <Button href='mailto:rosaura.pat@somosm2.mx' style={{ paddingRight:'1rem', paddingLeft:'1rem', backgroundColor:'#000', color:'white' }} >Email</Button>
         </Box>
+        
       </Box>
     </Grid>
 
