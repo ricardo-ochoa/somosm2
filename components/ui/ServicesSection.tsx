@@ -26,7 +26,7 @@ export const ServicesSection = () => {
 
           <ListItem alignItems='flex-start'>
             <Star style={{ marginRight:'15px' }}  color='secondary'/>
-            <ListItemText>Aplicación de revestimiento tipo pebble tec y ekol (Mezcla de mortero especial con piedras silíceas y/o Cristales decantados).</ListItemText>
+            <ListItemText>Aplicación de revestimiento tipo pebble tec y acabado de piedras siliceas con mortero.</ListItemText>
           </ListItem>
 
           <ListItem alignItems='flex-start'>

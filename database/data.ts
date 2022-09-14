@@ -174,7 +174,7 @@ export const initialDataCard: SeedData = {
             tiempo:'6 meses.'
         },
         {
-            description: "Colocación de acabados tipo Ekol en alberca Lúdica, Jacuzzis y reparaciones en diversas áreas de piscina del hotel. Estos trabajos fueron postergados por la pandemia y se retomaron en diciembre de 2020 culminándose en esas fechas los trabajos generales.",
+            description: "Colocación de acabados de piedras siliceas con mortero en alberca Lúdica, Jacuzzis y reparaciones en diversas áreas de piscina del hotel. Estos trabajos fueron postergados por la pandemia y se retomaron en diciembre de 2020 culminándose en esas fechas los trabajos generales.",
             images: [
                 'https://res.cloudinary.com/dnxxkvpiz/image/upload/v1663106742/somosm2/7_syqbh6.jpg',
             ],
@@ -194,7 +194,7 @@ export const initialDataCard: SeedData = {
             tiempo:'2 meses.'
         },
         {
-            description: "Remodelación de piscina con modificación de diseño, Incluyendo trabajos generales de albañilería y aplicación de acabado Ekol (Naica) 190 m2 aproximadamente.",
+            description: "Remodelación de piscina con modificación de diseño, Incluyendo trabajos generales de albañilería y aplicación acabado de piedras siliceas con mortero (Naica) 190 m2 aproximadamente.",
             images: [
                 'https://res.cloudinary.com/dnxxkvpiz/image/upload/v1663107196/somosm2/9_kkrzkn.jpg',
             ],
@@ -204,7 +204,7 @@ export const initialDataCard: SeedData = {
             tiempo:'2 semanas.'
         },
         {
-            description: "Acabados en piscina 2 cuerpos en piscina elevadas del hotel Residence Inn Cancún 390 m2 aproximadamente, en acabado Ekol modelo Naica, Incluyendo limpieza general, preparación de superficie, impermeabilización general y aplicación de nuevo sustrato (Ekol).",
+            description: "Acabados en piscina 2 cuerpos en piscina elevadas del hotel Residence Inn Cancún 390 m2 aproximadamente, en acabado de piedras siliceas con mortero modelo Naica, Incluyendo limpieza general, preparación de superficie, impermeabilización general y aplicación de nuevo sustrato (Ekol).",
             images: [
                 'https://res.cloudinary.com/dnxxkvpiz/image/upload/v1663107386/somosm2/10_w89zyp.jpg',
             ],
@@ -214,7 +214,7 @@ export const initialDataCard: SeedData = {
             tiempo:'2 semanas.'
         },
         {
-            description: "Remodelación general de piscinas del hotel lado Heaven 3800 m2 aproximadamente en acabado Ekol modelo Naica, Incluyendo la demolición de veneciano anterior, limpieza general, preparación de superficie, impermeabilización general y aplicación de nuevo sustrato (Ekol).",
+            description: "Remodelación general de piscinas del hotel lado Heaven 3800 m2 aproximadamente en acabado de piedras siliceas con mortero modelo Naica, Incluyendo la demolición de veneciano anterior, limpieza general, preparación de superficie, impermeabilización general y aplicación de nuevo sustrato (Ekol).",
             images: [
                 'https://res.cloudinary.com/dnxxkvpiz/image/upload/v1663107674/somosm2/1_foclfc.jpg',
             ],
@@ -224,7 +224,7 @@ export const initialDataCard: SeedData = {
             tiempo:'3 meses (agosto-diciembre).'
         },
         {
-            description: "Remodelación general de piscinas del hotel lado Hacienda 4800 m2 aproximadamente, en acabado Ekol modelo Centla con mortero blanco, Incluyendo, limpieza general, preparación de superficie, impermeabilización general y aplicación de nuevo sustrato (Ekol).",
+            description: "Remodelación general de piscinas del hotel lado Hacienda 4800 m2 aproximadamente, en acabado de piedras siliceas con mortero modelo Centla con mortero blanco, Incluyendo, limpieza general, preparación de superficie, impermeabilización general y aplicación de nuevo sustrato (Ekol).",
             images: [
                 'https://res.cloudinary.com/dnxxkvpiz/image/upload/v1663107903/somosm2/2_dfavz4.jpg',
             ],
