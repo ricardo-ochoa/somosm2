@@ -13,7 +13,7 @@ const Home: NextPage = () => {
   return (
     <div>
       <HomeLayout title={'Somos m²'} pageDescription={'MANTENIMIENTO · RENTA DE EQUIPOS · MATERIALES · ALBERCAS'}
-      imageFullUrl='https://res.cloudinary.com/dnxxkvpiz/image/upload/v1663011195/somosm2/Texto_cuandrado_3_auhfkj.png'>
+      imageFullUrl='https://res.cloudinary.com/dnxxkvpiz/image/upload/v1663180467/somosm2/imagenes_web_ro5dez.jpg'>
 
       <TextImageSection />
       <ServicesSection />
