@@ -27,8 +27,14 @@ export const HomeLayout:FC<Props> = ({ children, title, pageDescription, imageFu
                 )
             }
 
+            <meta property="og:url"                content="http://www.somosm2.mx/" />
+            <meta property="og:type"               content="text/html" />
+            <meta property="og:title"              content={ title } />
+            <meta property="og:description"        content={ pageDescription} />
+            <meta property="og:image"              content={ imageFullUrl} />
+
             <meta name="author" content="Ricardo Ochoa"></meta>
-            <meta name="copyright" content="Ricardo @ochoagram"></meta>
+            <meta name="copyright" content="somosm2"></meta>
             <meta name="robots" content={ robots }></meta>
 
 
