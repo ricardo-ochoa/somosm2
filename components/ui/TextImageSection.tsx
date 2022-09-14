@@ -5,7 +5,7 @@ export const TextImageSection = () => {
   return (
     <Grid container display='flex'  alignItems='center' spacing={ 6 } mb={ 20 }>
 
-    <Grid item xs={ 12 } md={ 6 }>
+    <Grid item xs={ 12 } sm={ 6 } md={ 6 }>
       <Typography variant='h3' component='h1' mb={ 1 } >Somos alta calidad.</Typography>
       <Typography variant='subtitle1' component='h2' mb={ 4 } >Mantenimiento · Renta de Equipos · Materiales · Albercas</Typography>
       <Typography variant='subtitle2' component='h1'
@@ -23,8 +23,8 @@ export const TextImageSection = () => {
       </Box>
     </Grid>
 
-    <Grid item xs={ 12 } md={ 6 } display='flex' justifyContent='flex-end' >
-      <img width='100%' height='auto' src='https://res.cloudinary.com/dnxxkvpiz/image/upload/v1663011266/somosm2/main_hf2zwu.jpg' alt='Somos main banner' />
+    <Grid item xs={ 12 } sm={ 6 } md={ 6 } display='flex' justifyContent='flex-end' >
+      <img width='100%' height='auto' style={{ borderRadius:"60px 0px 60px 0px"}} src='https://res.cloudinary.com/dnxxkvpiz/image/upload/v1663011266/somosm2/main_hf2zwu.jpg' alt='Somos main banner' />
     </Grid>
 
   </Grid>
