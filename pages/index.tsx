@@ -12,7 +12,7 @@ import { Curriculum } from '../components/ui/Curriculum'
 const Home: NextPage = () => {
   return (
     <div>
-      <HomeLayout title={'Somos m²'} pageDescription={'MANTENIMIENTO · RENTA DE EQUIPOS · MATERIALES · ALBERCAS'}
+      <HomeLayout title={'Somos m²'} pageDescription={'Albercas · Mantenimiento · Materiales · Renta de Equipos'}
       imageFullUrl='https://res.cloudinary.com/dnxxkvpiz/image/upload/v1663180467/somosm2/imagenes_web_ro5dez.jpg'>
 
       <TextImageSection />
