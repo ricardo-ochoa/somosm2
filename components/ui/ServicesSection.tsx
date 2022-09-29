@@ -26,7 +26,7 @@ export const ServicesSection = () => {
 
           <ListItem alignItems='flex-start'>
             <Star style={{ marginRight:'15px' }}  color='secondary'/>
-            <ListItemText>Aplicación de revestimiento tipo pebble tec y acabado de piedras siliceas con mortero.</ListItemText>
+            <ListItemText>Aplicación de revestimientos tipo pebble, acabados diversos de albercas, aplicación de chukum Premium, Pastas decorativa y acabados en general.</ListItemText>
           </ListItem>
 
           <ListItem alignItems='flex-start'>
@@ -36,7 +36,12 @@ export const ServicesSection = () => {
 
           <ListItem alignItems='flex-start'>
             <Star style={{ marginRight:'15px' }} color='secondary' />
-            <ListItemText>Servicios generales de construcción y mantenimiento.</ListItemText>
+            <ListItemText>Servicios generales de construcción y mantenimiento general.</ListItemText>
+          </ListItem>
+
+          <ListItem alignItems='flex-start'>
+            <Star style={{ marginRight:'15px' }} color='secondary' />
+            <ListItemText>Renta general de equipo ligero.</ListItemText>
           </ListItem>
       </List>
 

@@ -7,7 +7,7 @@ export const TextImageSection = () => {
 
     <Grid item xs={ 12 } sm={ 6 } md={ 6 }>
       <Typography variant='h3' component='h1' mb={ 1 } >Somos alta calidad.</Typography>
-      <Typography variant='subtitle1' component='h2' mb={ 4 } >Mantenimiento · Renta de Equipos · Materiales · Albercas</Typography>
+      <Typography variant='subtitle1' component='h2' mb={ 4 } > Albercas · Mantenimiento · Materiales ·  Renta de Equipos</Typography>
       <Typography variant='subtitle2' component='h1'
       >Contamos con más de 15 años de experiencia en el ramo, dando servicio a particulares, constructoras, y cadenas hoteleras en todo el sureste y el país en general.</Typography>
       

@@ -8,7 +8,7 @@ export const Clients = () => {
         <Grid container spacing={3} mb={ 8 }>
           
           <Grid item xs={ 6 } sm={ 4 } md={ 3 } lg={ 2 }>
-            <img style={{ margin:'0.5rem' }} width='80%' src='https://res.cloudinary.com/dnxxkvpiz/image/upload/v1663030217/somosm2/bluebay_ma9fke.jpg' alt='Blue Bay'></img> 
+            <img style={{ margin:'0.5rem' }} width='80%' src='https://res.cloudinary.com/dnxxkvpiz/image/upload/v1664492160/somosm2/temp_omc5lt.jpg' alt='Temptation Cancun'></img> 
           </Grid>
           <Grid item xs={ 6 } sm={ 4 } md={ 3 } lg={ 2 }>
             <img style={{ margin:'0.5rem' }} width='80%' src='https://res.cloudinary.com/dnxxkvpiz/image/upload/v1663030216/somosm2/country-towers_uewpdu.jpg' alt='Country Towers'></img> 
@@ -36,6 +36,16 @@ export const Clients = () => {
           </Grid>
           <Grid item xs={ 6 } sm={ 4 } md={ 3 } lg={ 2 }>
             <img style={{ margin:'0.5rem' }} width='80%' src='https://res.cloudinary.com/dnxxkvpiz/image/upload/v1663030217/somosm2/lo_eyffps.jpg' alt='Country Olas'></img> 
+          </Grid>
+
+          <Grid item xs={ 6 } sm={ 4 } md={ 3 } lg={ 2 }>
+            <img style={{ margin:'0.5rem' }} width='80%' src='https://res.cloudinary.com/dnxxkvpiz/image/upload/v1664491413/somosm2/circle_zdyutk.jpg' alt='Circle'></img> 
+          </Grid>
+          <Grid item xs={ 6 } sm={ 4 } md={ 3 } lg={ 2 }>
+            <img style={{ margin:'0.5rem' }} width='80%' src='https://res.cloudinary.com/dnxxkvpiz/image/upload/v1664491413/somosm2/casacoyote_uy9ycy.jpg' alt='Casa Coyote Tulum'></img> 
+          </Grid>
+          <Grid item xs={ 6 } sm={ 4 } md={ 3 } lg={ 2 }>
+            <img style={{ margin:'0.5rem' }} width='80%' src='https://res.cloudinary.com/dnxxkvpiz/image/upload/v1664491413/somosm2/kelman_apazoy.jpg' alt='Kelman'></img> 
           </Grid>
 
         </Grid>

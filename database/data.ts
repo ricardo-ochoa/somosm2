@@ -34,7 +34,7 @@ export const initialDataCard: SeedData = {
             tiempo:'2 semanas'
         },
         {
-            description: "Realizamos la colocación de mosaico vítreo kolorines en área de piscina principal de aproximadamente 3800 con diseño en esfumado especial, acabados en el área del bar, la colocación de murales en tecnicolor y bizantino en el área del Spa, así como colocación de mármol y cerámico en áreas de publicas.",
+            description: "Realizamos la colocación de mosaico vítreo en área de piscina principal de aproximadamente 3800 con diseño en esfumado especial, acabados en el área del bar, la colocación de murales en tecnicolor y bizantino en el área del Spa, así como colocación de mármol y cerámico en áreas de publicas.",
             images: [
                 'https://res.cloudinary.com/dnxxkvpiz/image/upload/v1663102015/somosm2/3_aq0kse.jpg',
             ],
@@ -204,7 +204,7 @@ export const initialDataCard: SeedData = {
             tiempo:'2 semanas.'
         },
         {
-            description: "Acabados en piscina 2 cuerpos en piscina elevadas del hotel Residence Inn Cancún 390 m2 aproximadamente, en acabado de piedras siliceas con mortero modelo Naica, Incluyendo limpieza general, preparación de superficie, impermeabilización general y aplicación de nuevo sustrato (Ekol).",
+            description: "Acabados en piscina 2 cuerpos en piscina elevadas del hotel Residence Inn Cancún 390 m2 aproximadamente, en acabado de piedras siliceas con mortero modelo Naica, Incluyendo limpieza general, preparación de superficie, impermeabilización general y aplicación de nuevo sustrato acabado de piedras silicas con mortero.",
             images: [
                 'https://res.cloudinary.com/dnxxkvpiz/image/upload/v1663107386/somosm2/10_w89zyp.jpg',
             ],
@@ -214,7 +214,7 @@ export const initialDataCard: SeedData = {
             tiempo:'2 semanas.'
         },
         {
-            description: "Remodelación general de piscinas del hotel lado Heaven 3800 m2 aproximadamente en acabado de piedras siliceas con mortero modelo Naica, Incluyendo la demolición de veneciano anterior, limpieza general, preparación de superficie, impermeabilización general y aplicación de nuevo sustrato (Ekol).",
+            description: "Remodelación general de piscinas del hotel lado Heaven 3800 m2 aproximadamente en acabado de piedras siliceas con mortero modelo Naica, Incluyendo la demolición de veneciano anterior, limpieza general, preparación de superficie, impermeabilización general y aplicación de nuevo sustrato acabado de piedras silicas con mortero.",
             images: [
                 'https://res.cloudinary.com/dnxxkvpiz/image/upload/v1663107674/somosm2/1_foclfc.jpg',
             ],
@@ -224,7 +224,7 @@ export const initialDataCard: SeedData = {
             tiempo:'3 meses (agosto-diciembre).'
         },
         {
-            description: "Remodelación general de piscinas del hotel lado Hacienda 4800 m2 aproximadamente, en acabado de piedras siliceas con mortero modelo Centla con mortero blanco, Incluyendo, limpieza general, preparación de superficie, impermeabilización general y aplicación de nuevo sustrato (Ekol).",
+            description: "Remodelación general de piscinas del hotel lado Hacienda 4800 m2 aproximadamente, en acabado de piedras siliceas con mortero modelo Centla con mortero blanco, Incluyendo, limpieza general, preparación de superficie, impermeabilización general y aplicación de nuevo sustrato acabado de piedras silicas con mortero.",
             images: [
                 'https://res.cloudinary.com/dnxxkvpiz/image/upload/v1663107903/somosm2/2_dfavz4.jpg',
             ],

@@ -41,12 +41,17 @@ export const CurriculumCard: FC<Props> = ( {curriculum} ) => {
             <Typography gutterBottom variant="h6" component="div" >
             {curriculum.title}
             </Typography>
-            <Typography variant="body2" color="text.secondary" mt={ 2 }>
+
+            <Typography id="modal-modal-title" variant="subtitle2" component="h6" mt={ 1 }>
+              Año de ejecución: {curriculum.ano}
+            </Typography>
+
+            {/* <Typography variant="body2" color="text.secondary" mt={ 2 }>
             Contratista o Contacto:
             </Typography>
             <Typography variant="subtitle2" color="text.secondary">
             {curriculum.contacto}
-            </Typography>
+            </Typography> */}
 
             </CardContent>
         </CardActionArea>
@@ -70,7 +75,7 @@ export const CurriculumCard: FC<Props> = ( {curriculum} ) => {
           </Typography>
 
           <Typography id="modal-modal-title" variant="subtitle2" component="h6" mt={ 1 }>
-          {curriculum.ano}
+          Año de ejecución: {curriculum.ano}
           </Typography>
 
           <Typography variant="body2" color="text.primary" mt={ 2 }>
